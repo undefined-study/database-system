@@ -31,5 +31,5 @@ int main(void)
 	printf("0 = %lu byte \n", sizeof(0)); // 4 byte
 	printf("4294967295 = %lu byte \n", sizeof(4294967295)); // 8 byte
 	printf("4294967296 = %lu byte \n", sizeof(4294967296)); // 8 byte
-	printf("%d = %lu byte \n", test, sizeof(test)); // 4 byte
+	printf("%d = %lu byte \n", test, sizeof(test)); // 2147483647 = 4 byte
 }
