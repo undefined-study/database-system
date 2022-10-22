@@ -5,3 +5,5 @@
 [Chapter02. 상수와 데이터 출력](https://github.com/undefined-study/hon-gong-c/blob/main/week02/ch02.md)
 
 [Chapter03. 변수와 데이터 입력](https://github.com/undefined-study/hon-gong-c/blob/main/week02/ch03.md)
+
+[Chapter04. 연산자](https://github.com/undefined-study/hon-gong-c/blob/main/week03/ch04.md)
