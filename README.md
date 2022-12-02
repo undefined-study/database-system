@@ -11,3 +11,5 @@
 [Chapter05. 선택문](https://github.com/undefined-study/hon-gong-c/blob/main/week05/ch05.md)
 
 [Chapter06. 반복문](https://github.com/undefined-study/hon-gong-c/blob/main/week06/ch06.md)
+
+[Chapter08. 배열](https://github.com/undefined-study/hon-gong-c/blob/main/week07/ch08.md)
