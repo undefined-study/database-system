@@ -16,4 +16,4 @@
 
 [Chapter09. 포인터](https://github.com/undefined-study/hon-gong-c/blob/main/week08/ch09.md)
 
-[Chapter08. 배열과 포인터](https://github.com/undefined-study/hon-gong-c/blob/main/week09/ch10.md)
+[Chapter10. 배열과 포인터](https://github.com/undefined-study/hon-gong-c/blob/main/week09/ch10.md)
